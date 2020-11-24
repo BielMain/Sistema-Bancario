@@ -1,0 +1,13 @@
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.csprojAssemblyReference.cache
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.AssemblyInfoInputs.cache
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.AssemblyInfo.cs
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.csproj.CoreCompileInputs.cache
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.exe
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.deps.json
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.runtimeconfig.json
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.runtimeconfig.dev.json
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.dll
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\bin\Debug\netcoreapp3.1\controleContas.pdb
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.dll
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.pdb
+C:\Users\Seth7\Desktop\Sistema Bancario(Gabriel)\SistemaBancario\controleContas\obj\Debug\netcoreapp3.1\controleContas.genruntimeconfig.cache
